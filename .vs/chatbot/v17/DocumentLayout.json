@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\coding\\c#\\chatbot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{519DAC62-8207-4976-8C80-52404CA187C0}|chatbot\\chatbot.csproj|c:\\coding\\c#\\chatbot\\chatbot\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519DAC62-8207-4976-8C80-52404CA187C0}|chatbot\\chatbot.csproj|solutionrelative:chatbot\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519DAC62-8207-4976-8C80-52404CA187C0}|chatbot\\chatbot.csproj|C:\\coding\\c#\\chatbot\\chatbot\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{519DAC62-8207-4976-8C80-52404CA187C0}|chatbot\\chatbot.csproj|solutionrelative:chatbot\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519DAC62-8207-4976-8C80-52404CA187C0}|chatbot\\chatbot.csproj|C:\\coding\\c#\\chatbot\\chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519DAC62-8207-4976-8C80-52404CA187C0}|chatbot\\chatbot.csproj|solutionrelative:chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519DAC62-8207-4976-8C80-52404CA187C0}|chatbot\\chatbot.csproj|C:\\coding\\c#\\chatbot\\chatbot\\core\\messagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519DAC62-8207-4976-8C80-52404CA187C0}|chatbot\\chatbot.csproj|solutionrelative:chatbot\\core\\messagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageRequest.cs",
+              "DocumentMoniker": "C:\\coding\\c#\\chatbot\\chatbot\\core\\MessageRequest.cs",
+              "RelativeDocumentMoniker": "chatbot\\core\\MessageRequest.cs",
+              "ToolTip": "C:\\coding\\c#\\chatbot\\chatbot\\core\\MessageRequest.cs",
+              "RelativeToolTip": "chatbot\\core\\MessageRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:42:06.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\coding\\c#\\chatbot\\chatbot\\mainForm.cs",
+              "RelativeDocumentMoniker": "chatbot\\mainForm.cs",
+              "ToolTip": "C:\\coding\\c#\\chatbot\\chatbot\\mainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "chatbot\\mainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:05:07.007Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\coding\\c#\\chatbot\\chatbot\\Program.cs",
+              "RelativeDocumentMoniker": "chatbot\\Program.cs",
+              "ToolTip": "C:\\coding\\c#\\chatbot\\chatbot\\Program.cs",
+              "RelativeToolTip": "chatbot\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:17:13.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainForm.cs",
+              "DocumentMoniker": "C:\\coding\\c#\\chatbot\\chatbot\\mainForm.cs",
+              "RelativeDocumentMoniker": "chatbot\\mainForm.cs",
+              "ToolTip": "C:\\coding\\c#\\chatbot\\chatbot\\mainForm.cs",
+              "RelativeToolTip": "chatbot\\mainForm.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:15:26.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
